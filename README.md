@@ -71,4 +71,4 @@ CubeGenie/
 
 ## 👥 Authors
 
-Made with ❤️ for AeroHack’25
+Made By Gireesh Kumar Rayi for AeroHack’25
